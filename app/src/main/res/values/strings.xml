@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dubizzle App</string>
+    <string name="dialog_error_message">An Error has occurred, Do you want to try again ?</string>
+    <string name="dialog_title">An Error</string>
+    <string name="dialog_yes_label">Yes</string>
+    <string name="dialog_no_label">No</string>
+    <string name="item_image_content_description">item image</string>
+
+</resources>
